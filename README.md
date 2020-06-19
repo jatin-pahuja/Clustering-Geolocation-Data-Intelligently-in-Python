@@ -8,7 +8,7 @@ We have taxi rank locations, and want to define key clusters of these taxis wher
 
 ## Project Outline
 
-[**Task 1**]: Exploratory Data Analysis
+[**Task 1**](#task1): Exploratory Data Analysis
 
 [**Task 2**](#task2): Visualizing Geographical Data
 
