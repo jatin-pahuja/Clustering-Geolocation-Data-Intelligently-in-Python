@@ -23,3 +23,5 @@ We have taxi rank locations, and want to define key clusters of these taxis wher
 [**Task 7**](#task7): Addressing Outliers
 
 [**Further Reading**](#further)
+
+![screenshot](https://github.com/jatin-pahuja/Clustering-Geolocation-Data-Intelligently-in-Python/blob/master/map.jpg)
